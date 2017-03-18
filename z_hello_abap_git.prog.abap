@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT z_hello_abap_git.
 
-cl_demo_output=>display( |Hello ABAP Git| ).
+cl_demo_output=>display( |Hello ABAP Git from Test branch| ).
